@@ -56,12 +56,6 @@ Para começar o bootcamp, eu:
 
 ---
 
-## 📫 Contato
-
-Para entrar em contato comigo, me encontre no [LinkedIn](https://www.linkedin.com/in/daniel-neri-51a7b12b3/) ou envie um e-mail para dnnxzz70@gmail.com.
-
----
-
 ## 📜 Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
